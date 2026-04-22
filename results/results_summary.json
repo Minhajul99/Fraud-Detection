@@ -1,0 +1,47 @@
+{
+  "A1": {
+    "count": 1000,
+    "e2e_p50_ms": 14.862,
+    "e2e_p95_ms": 65.539,
+    "e2e_p99_ms": 6917.26,
+    "score_p50_ms": 0.397,
+    "score_p95_ms": 0.488,
+    "score_p99_ms": 4.182,
+    "fraud_rate_pct": 1.8,
+    "fraud_count": 18,
+    "avg_fraud_prob": 0.1014,
+    "throughput_tps": 67.29,
+    "cost_per_1M_usd": 1.8566,
+    "latency_samples": 1000
+  },
+  "A2": {
+    "count": 1000,
+    "e2e_p50_ms": 42.701,
+    "e2e_p95_ms": 93.884,
+    "e2e_p99_ms": 7358.846,
+    "score_p50_ms": 0,
+    "score_p95_ms": 0,
+    "score_p99_ms": 0,
+    "fraud_rate_pct": 1.6,
+    "fraud_count": 16,
+    "avg_fraud_prob": 0.1008,
+    "throughput_tps": 10917.03,
+    "cost_per_1M_usd": 1.85,
+    "latency_samples": 1000
+  },
+  "B0": {
+    "count": 1000,
+    "e2e_p50_ms": 71800.1,
+    "e2e_p95_ms": 139860.2,
+    "e2e_p99_ms": 145232.9,
+    "score_p50_ms": 0.38,
+    "score_p95_ms": 0.436,
+    "score_p99_ms": 1.003,
+    "fraud_rate_pct": 1.8,
+    "fraud_count": 18,
+    "avg_fraud_prob": 0.1013,
+    "throughput_tps": 0.01,
+    "cost_per_1M_usd": 1.4563,
+    "latency_samples": 1000
+  }
+}
